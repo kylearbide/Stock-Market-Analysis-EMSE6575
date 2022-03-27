@@ -1,0 +1,34 @@
+Enter number of tech stocks(Type 0 for no stocks in sector): 10
+
+Enter tech stock symbols separated by spaces: aapl msft goog amzn tsla fb pltr twtr orcl nvda
+['aapl', 'msft', 'goog', 'amzn', 'tsla', 'fb', 'pltr', 'twtr', 'orcl', 'nvda']
+Enter number of etf stocks(Type 0 for no stocks in sector): 10
+
+Enter etf stock symbols separated by spaces: voo spy vde gld cibr ivv vcsh spdn fqal ftec
+['voo', 'spy', 'vde', 'gld', 'cibr', 'ivv', 'vcsh', 'spdn', 'fqal', 'ftec']
+Enter number of commodities stocks(Type 0 for no stocks in sector): 10
+
+Enter commodities stock symbols separated by spaces: gold xon rio vale scco lyb btg eva bhp nem
+['gold', 'xon', 'rio', 'vale', 'scco', 'lyb', 'btg', 'eva', 'bhp', 'nem']
+Could not gather data on XON
+Enter number of crypto stocks(Type 0 for no stocks in sector): 10
+
+Enter crypto stock symbols separated by spaces: btc-usd eth-usd sol-usd matic-usd avax-usd link-usd doge-usd cro-usd atom-usd uni-usd
+['btc-usd', 'eth-usd', 'sol-usd', 'matic-usd', 'avax-usd', 'link-usd', 'doge-usd', 'cro-usd', 'atom-usd', 'uni-usd']
+Enter number of transportation stocks(Type 0 for no stocks in sector): 10
+
+Enter transportation stock symbols separated by spaces: ups unp cni csx nsc fdx ryaay ual aal ksu
+['ups', 'unp', 'cni', 'csx', 'nsc', 'fdx', 'ryaay', 'ual', 'aal', 'ksu']
+Could not gather data on KSU
+Enter number of healthcare stocks(Type 0 for no stocks in sector): 10
+
+Enter healthcare stock symbols separated by spaces: jnj pfe unh abbv abt cvs bmy ci mrna hca
+['jnj', 'pfe', 'unh', 'abbv', 'abt', 'cvs', 'bmy', 'ci', 'mrna', 'hca']
+Enter number of communications stocks(Type 0 for no stocks in sector): 10
+
+Enter communications stock symbols separated by spaces: vz cmcsa t tmus abnb vod zm rblx chtr rci
+['vz', 'cmcsa', 't', 'tmus', 'abnb', 'vod', 'zm', 'rblx', 'chtr', 'rci']
+Enter number of banks stocks(Type 0 for no stocks in sector): 10
+
+Enter banks stock symbols separated by spaces: c bac mtb lyg frc gs bbva wfc sivb ewbc
+['c', 'bac', 'mtb', 'lyg', 'frc', 'gs', 'bbva', 'wfc', 'sivb', 'ewbc']
